@@ -24,7 +24,7 @@ I'm a fast learner, passionate and creative developer. Currently improving my fr
 
 <p>
 <img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=omni">
-<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=Federico-Villace&sshow_icons=true&theme=omni&count_private=true">
+/*<img align="right" height="170px" src="https://github-readme-stats.vercel.app/api?username=Federico-Villace&sshow_icons=true&theme=omni&count_private=true">*/
 </p>
 
 <details align="center">
