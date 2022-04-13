@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 You can contact me via federicovillace@gmail.com
 <h4 align="center">
-1 year of experience with web and app development. 
-<br />
-I'm a fast learner, passionate and creative developer. Currently improving my front-end skills and always learning new thing.
+I'm a fast learner, passionate and creative developer with over 1 year of experience in web and app development.. Currently improving my front-end skills and always learning new thing.
 <br />
 </h4>
 
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=omni">
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=omni">
 
 </p>
 
