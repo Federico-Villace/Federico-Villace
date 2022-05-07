@@ -20,6 +20,9 @@ I'm a fast learner, passionate and creative developer with over 1 year of experi
 <br />
 </h4>
 
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 <p align="center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=omni">
 
