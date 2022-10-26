@@ -30,18 +30,12 @@ I'm a fast learner, passionate and creative developer with over 1 year of experi
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+
 <p align="center">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=omni">
 
 </p>
 
-<details align="center">
-  <summary>More about me</summary>
-  
-Linkedin: 
-  https://www.linkedin.com/in/federico-villace-745878163/
-
-If you want to know more about me just send me a mail to federicovillace@gmail.com and I would gladly answer your questions or try to help you out with whatever you need! 
 
 
 </details>
