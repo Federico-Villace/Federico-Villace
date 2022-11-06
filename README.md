@@ -21,7 +21,7 @@ Fast learner, passionate and creative developer with over 1 year of experience i
   Also Learning about new technologies and best practices in a fullstack bootcamp that I recently started. 
 
 
-If you want, you can contact me by Email:</br> <a href="mailto:federicovillace@gmail.com">federicovillace@gmail.com</a> <br></br>or via Linkedin: </br><a href="https://www.linkedin.com/in/federico-villace-745878163/">Federico-Villace</a>
+If you want, you can contact me by Email:</br> <a href="mailto:federicovillace@gmail.com">federicovillace@gmail.com</a> <br></br>or via Linkedin: </br><a href="https://www.linkedin.com/in/federico-villace/">Federico-Villace</a>
 
 
 #### 📈 &nbsp; GitHub Status 
