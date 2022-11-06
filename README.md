@@ -26,7 +26,7 @@ If you want, you can contact me by Email:</br> <a href="mailto:federicovillace@g
 
 #### 📈 &nbsp; GitHub Status 
 <p>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=8&theme=omni">
+<img height="170px" src="">
 </p>
  
 
