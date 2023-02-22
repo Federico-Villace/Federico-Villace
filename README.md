@@ -26,7 +26,7 @@ If you want, you can contact me by Email:</br> <a href="mailto:federicovillace@g
 
 #### 📈 &nbsp;Languages & Status 
 <p>
-<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=6&theme=radical">
+<img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Federico-Villace&exclude_repo=,free-for-dev&layout=compact&langs_count=6&theme=dark">
   
   <img height="170px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Federico-Villace&sshow_icons=true&theme=radical&count_private=true">
 </p>
