@@ -31,11 +31,11 @@ If you want, you can contact me by Email:</br> <a href="mailto:federicovillace@g
   <img height="170px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Federico-Villace&sshow_icons=true&theme=radical&count_private=true">
 </p>
 
-🔭#### Carrently working on two projects:
+#### Carrently working on two projects:
 - Web Solution like cafecito. With NextJS 
 - Web Solution for Tarot with NextJs.
 
-⚡#### Recently Finished Projects:
+#### Recently Finished Projects:
 - Mobile App for the municipality of Hurlingham. Winter Park 
 https://appetize.io/app/b_k2bhi7nqqmzvkz3pkk64sw5yre?device=pixel7&osVersion=13.0
 - Mobile App for tourism agencies, the solution counts with chatGPT, Map, and translate, among the main features.
