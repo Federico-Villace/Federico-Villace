@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Fast learner and creative developer with over 2 year of experience in web development.. Currently working in several projects.
 <br />
-  Also Learning about new technologies and best practices in a fullstack bootcamp that I recently started. 
+  Also work in ETEC a superior school of University of Buenos Aires as a Frontend Developer Professor.
 
 
 If you want, you can contact me by Email:</br> <a href="mailto:federicovillace@gmail.com">federicovillace@gmail.com</a> <br></br>or via Linkedin: </br><a href="https://www.linkedin.com/in/federico-villace/">Federico-Villace</a>
